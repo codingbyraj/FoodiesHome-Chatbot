@@ -1,1 +1,7 @@
 # FoodiesHome-Chatbot
+
+The company named "Foodies Home" use a chatbot that will take food order from user.
+The chatbot shows the menu available to the user. 
+Then user will choose food items.
+Bot will ask few basic information like name and address of user where to deliver food.
+And finally, take order and shows bill to user.
